@@ -1,0 +1,389 @@
+{
+  "theta": 0.0075,
+  "window": 30,
+  "stocks": {
+    "COFORGE_NS": {
+      "rows": 1185,
+      "first_date": "2021-12-01",
+      "last_date": "2026-09-18",
+      "n_features": 27,
+      "nulls": 0,
+      "duplicate_dates": 0,
+      "train_next_day_return": {
+        "mean": 0.00046,
+        "sd": 0.02266,
+        "min": -0.1009,
+        "max": 0.1177
+      },
+      "train_sequences": 799,
+      "train_class_proportions": {
+        "Buy": 0.3267,
+        "Hold": 0.3479,
+        "Sell": 0.3254
+      },
+      "val_sequences": 148,
+      "val_class_proportions": {
+        "Buy": 0.3311,
+        "Hold": 0.3919,
+        "Sell": 0.277
+      },
+      "test_sequences": 148,
+      "test_class_proportions": {
+        "Buy": 0.3514,
+        "Hold": 0.2973,
+        "Sell": 0.3514
+      }
+    },
+    "HCLTECH_NS": {
+      "rows": 1186,
+      "first_date": "2021-12-01",
+      "last_date": "2026-09-18",
+      "n_features": 27,
+      "nulls": 0,
+      "duplicate_dates": 0,
+      "train_next_day_return": {
+        "mean": 0.00032,
+        "sd": 0.01499,
+        "min": -0.0884,
+        "max": 0.0542
+      },
+      "train_sequences": 800,
+      "train_class_proportions": {
+        "Buy": 0.2687,
+        "Hold": 0.485,
+        "Sell": 0.2462
+      },
+      "val_sequences": 148,
+      "val_class_proportions": {
+        "Buy": 0.2297,
+        "Hold": 0.5203,
+        "Sell": 0.25
+      },
+      "test_sequences": 148,
+      "test_class_proportions": {
+        "Buy": 0.2905,
+        "Hold": 0.3919,
+        "Sell": 0.3176
+      }
+    },
+    "INFY_NS": {
+      "rows": 1186,
+      "first_date": "2021-12-01",
+      "last_date": "2026-09-18",
+      "n_features": 27,
+      "nulls": 0,
+      "duplicate_dates": 0,
+      "train_next_day_return": {
+        "mean": -0.00012,
+        "sd": 0.01587,
+        "min": -0.0942,
+        "max": 0.0793
+      },
+      "train_sequences": 800,
+      "train_class_proportions": {
+        "Buy": 0.2863,
+        "Hold": 0.4313,
+        "Sell": 0.2825
+      },
+      "val_sequences": 148,
+      "val_class_proportions": {
+        "Buy": 0.2297,
+        "Hold": 0.5068,
+        "Sell": 0.2635
+      },
+      "test_sequences": 148,
+      "test_class_proportions": {
+        "Buy": 0.2905,
+        "Hold": 0.3108,
+        "Sell": 0.3986
+      }
+    },
+    "LTM_NS": {
+      "rows": 1183,
+      "first_date": "2021-12-01",
+      "last_date": "2026-09-18",
+      "n_features": 27,
+      "nulls": 0,
+      "duplicate_dates": 0,
+      "train_next_day_return": {
+        "mean": -0.00043,
+        "sd": 0.01927,
+        "min": -0.1072,
+        "max": 0.0654
+      },
+      "train_sequences": 798,
+      "train_class_proportions": {
+        "Buy": 0.292,
+        "Hold": 0.3985,
+        "Sell": 0.3095
+      },
+      "val_sequences": 147,
+      "val_class_proportions": {
+        "Buy": 0.2857,
+        "Hold": 0.4898,
+        "Sell": 0.2245
+      },
+      "test_sequences": 148,
+      "test_class_proportions": {
+        "Buy": 0.3243,
+        "Hold": 0.2568,
+        "Sell": 0.4189
+      }
+    },
+    "LTTS_NS": {
+      "rows": 1185,
+      "first_date": "2021-12-01",
+      "last_date": "2026-09-18",
+      "n_features": 27,
+      "nulls": 0,
+      "duplicate_dates": 0,
+      "train_next_day_return": {
+        "mean": -0.00016,
+        "sd": 0.02002,
+        "min": -0.0781,
+        "max": 0.0904
+      },
+      "train_sequences": 799,
+      "train_class_proportions": {
+        "Buy": 0.2954,
+        "Hold": 0.4105,
+        "Sell": 0.2941
+      },
+      "val_sequences": 148,
+      "val_class_proportions": {
+        "Buy": 0.2635,
+        "Hold": 0.4324,
+        "Sell": 0.3041
+      },
+      "test_sequences": 148,
+      "test_class_proportions": {
+        "Buy": 0.3446,
+        "Hold": 0.3041,
+        "Sell": 0.3514
+      }
+    },
+    "MPHASIS_NS": {
+      "rows": 1185,
+      "first_date": "2021-12-01",
+      "last_date": "2026-09-18",
+      "n_features": 27,
+      "nulls": 0,
+      "duplicate_dates": 0,
+      "train_next_day_return": {
+        "mean": -0.0002,
+        "sd": 0.02041,
+        "min": -0.0719,
+        "max": 0.0767
+      },
+      "train_sequences": 799,
+      "train_class_proportions": {
+        "Buy": 0.3267,
+        "Hold": 0.3417,
+        "Sell": 0.3317
+      },
+      "val_sequences": 148,
+      "val_class_proportions": {
+        "Buy": 0.3311,
+        "Hold": 0.3784,
+        "Sell": 0.2905
+      },
+      "test_sequences": 148,
+      "test_class_proportions": {
+        "Buy": 0.3108,
+        "Hold": 0.3243,
+        "Sell": 0.3649
+      }
+    },
+    "PERSISTENT_NS": {
+      "rows": 1185,
+      "first_date": "2021-12-01",
+      "last_date": "2026-09-18",
+      "n_features": 27,
+      "nulls": 0,
+      "duplicate_dates": 0,
+      "train_next_day_return": {
+        "mean": 0.00118,
+        "sd": 0.0223,
+        "min": -0.0986,
+        "max": 0.1087
+      },
+      "train_sequences": 799,
+      "train_class_proportions": {
+        "Buy": 0.3554,
+        "Hold": 0.3279,
+        "Sell": 0.3166
+      },
+      "val_sequences": 148,
+      "val_class_proportions": {
+        "Buy": 0.2973,
+        "Hold": 0.3851,
+        "Sell": 0.3176
+      },
+      "test_sequences": 148,
+      "test_class_proportions": {
+        "Buy": 0.3378,
+        "Hold": 0.3378,
+        "Sell": 0.3243
+      }
+    },
+    "TCS_NS": {
+      "rows": 1186,
+      "first_date": "2021-12-01",
+      "last_date": "2026-09-18",
+      "n_features": 27,
+      "nulls": 0,
+      "duplicate_dates": 0,
+      "train_next_day_return": {
+        "mean": -4e-05,
+        "sd": 0.01337,
+        "min": -0.0542,
+        "max": 0.0663
+      },
+      "train_sequences": 800,
+      "train_class_proportions": {
+        "Buy": 0.235,
+        "Hold": 0.5225,
+        "Sell": 0.2425
+      },
+      "val_sequences": 148,
+      "val_class_proportions": {
+        "Buy": 0.1892,
+        "Hold": 0.5811,
+        "Sell": 0.2297
+      },
+      "test_sequences": 148,
+      "test_class_proportions": {
+        "Buy": 0.2838,
+        "Hold": 0.3446,
+        "Sell": 0.3716
+      }
+    },
+    "TECHM_NS": {
+      "rows": 1185,
+      "first_date": "2021-12-01",
+      "last_date": "2026-09-18",
+      "n_features": 27,
+      "nulls": 0,
+      "duplicate_dates": 0,
+      "train_next_day_return": {
+        "mean": -6e-05,
+        "sd": 0.01726,
+        "min": -0.0632,
+        "max": 0.0743
+      },
+      "train_sequences": 799,
+      "train_class_proportions": {
+        "Buy": 0.2778,
+        "Hold": 0.4205,
+        "Sell": 0.3016
+      },
+      "val_sequences": 148,
+      "val_class_proportions": {
+        "Buy": 0.277,
+        "Hold": 0.4527,
+        "Sell": 0.2703
+      },
+      "test_sequences": 148,
+      "test_class_proportions": {
+        "Buy": 0.3243,
+        "Hold": 0.3311,
+        "Sell": 0.3446
+      }
+    },
+    "WIPRO_NS": {
+      "rows": 1186,
+      "first_date": "2021-12-01",
+      "last_date": "2026-09-18",
+      "n_features": 27,
+      "nulls": 0,
+      "duplicate_dates": 0,
+      "train_next_day_return": {
+        "mean": -0.0003,
+        "sd": 0.01647,
+        "min": -0.0922,
+        "max": 0.066
+      },
+      "train_sequences": 800,
+      "train_class_proportions": {
+        "Buy": 0.2675,
+        "Hold": 0.4462,
+        "Sell": 0.2863
+      },
+      "val_sequences": 148,
+      "val_class_proportions": {
+        "Buy": 0.2703,
+        "Hold": 0.527,
+        "Sell": 0.2027
+      },
+      "test_sequences": 148,
+      "test_class_proportions": {
+        "Buy": 0.2973,
+        "Hold": 0.3649,
+        "Sell": 0.3378
+      }
+    }
+  },
+  "pooled": {
+    "train_sequences": 7993,
+    "val_sequences": 1479,
+    "test_sequences": 1480,
+    "train_class_proportions": {
+      "Buy": 0.2931,
+      "Hold": 0.4132,
+      "Sell": 0.2936
+    },
+    "test_class_proportions": {
+      "Buy": 0.3155,
+      "Hold": 0.3264,
+      "Sell": 0.3581
+    },
+    "theta_sweep_train_proportions": {
+      "0.003": {
+        "Buy": 0.417,
+        "Hold": 0.1765,
+        "Sell": 0.4065
+      },
+      "0.005": {
+        "Buy": 0.3589,
+        "Hold": 0.2891,
+        "Sell": 0.3519
+      },
+      "0.0075": {
+        "Buy": 0.2931,
+        "Hold": 0.4132,
+        "Sell": 0.2936
+      },
+      "0.01": {
+        "Buy": 0.2452,
+        "Hold": 0.5108,
+        "Sell": 0.244
+      },
+      "0.0125": {
+        "Buy": 0.1999,
+        "Hold": 0.6047,
+        "Sell": 0.1954
+      }
+    }
+  },
+  "baselines_on_pooled_test": {
+    "majority_class": {
+      "predicts": "Hold",
+      "macro_f1": 0.164,
+      "accuracy": 0.3264,
+      "recall_per_class": {
+        "Buy": 0.0,
+        "Hold": 1.0,
+        "Sell": 0.0
+      }
+    },
+    "logistic_regression_technical_only": {
+      "macro_f1": 0.329,
+      "accuracy": 0.3311,
+      "recall_per_class": {
+        "Buy": 0.4347,
+        "Hold": 0.3064,
+        "Sell": 0.2623
+      }
+    }
+  }
+}

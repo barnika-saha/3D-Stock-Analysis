@@ -1,0 +1,512 @@
+{
+  "TCS.NS": {
+    "rows_after_cleaning": 1186,
+    "date_range": [
+      "2021-12-01 00:00:00",
+      "2026-09-18 00:00:00"
+    ],
+    "train_shape": [
+      800,
+      30,
+      27
+    ],
+    "val_shape": [
+      148,
+      30,
+      27
+    ],
+    "test_shape": [
+      148,
+      30,
+      27
+    ],
+    "feature_columns": [
+      "open",
+      "high",
+      "low",
+      "close",
+      "volume",
+      "sma_10",
+      "sma_20",
+      "sma_50",
+      "ema_12",
+      "ema_26",
+      "macd",
+      "macd_signal",
+      "macd_hist",
+      "rsi_14",
+      "bb_upper",
+      "bb_lower",
+      "bb_width",
+      "atr_14",
+      "obv",
+      "adi",
+      "stoch_k",
+      "stoch_d",
+      "williams_r",
+      "bull_power",
+      "bear_power",
+      "daily_return",
+      "log_return"
+    ]
+  },
+  "INFY.NS": {
+    "rows_after_cleaning": 1186,
+    "date_range": [
+      "2021-12-01 00:00:00",
+      "2026-09-18 00:00:00"
+    ],
+    "train_shape": [
+      800,
+      30,
+      27
+    ],
+    "val_shape": [
+      148,
+      30,
+      27
+    ],
+    "test_shape": [
+      148,
+      30,
+      27
+    ],
+    "feature_columns": [
+      "open",
+      "high",
+      "low",
+      "close",
+      "volume",
+      "sma_10",
+      "sma_20",
+      "sma_50",
+      "ema_12",
+      "ema_26",
+      "macd",
+      "macd_signal",
+      "macd_hist",
+      "rsi_14",
+      "bb_upper",
+      "bb_lower",
+      "bb_width",
+      "atr_14",
+      "obv",
+      "adi",
+      "stoch_k",
+      "stoch_d",
+      "williams_r",
+      "bull_power",
+      "bear_power",
+      "daily_return",
+      "log_return"
+    ]
+  },
+  "WIPRO.NS": {
+    "rows_after_cleaning": 1186,
+    "date_range": [
+      "2021-12-01 00:00:00",
+      "2026-09-18 00:00:00"
+    ],
+    "train_shape": [
+      800,
+      30,
+      27
+    ],
+    "val_shape": [
+      148,
+      30,
+      27
+    ],
+    "test_shape": [
+      148,
+      30,
+      27
+    ],
+    "feature_columns": [
+      "open",
+      "high",
+      "low",
+      "close",
+      "volume",
+      "sma_10",
+      "sma_20",
+      "sma_50",
+      "ema_12",
+      "ema_26",
+      "macd",
+      "macd_signal",
+      "macd_hist",
+      "rsi_14",
+      "bb_upper",
+      "bb_lower",
+      "bb_width",
+      "atr_14",
+      "obv",
+      "adi",
+      "stoch_k",
+      "stoch_d",
+      "williams_r",
+      "bull_power",
+      "bear_power",
+      "daily_return",
+      "log_return"
+    ]
+  },
+  "HCLTECH.NS": {
+    "rows_after_cleaning": 1186,
+    "date_range": [
+      "2021-12-01 00:00:00",
+      "2026-09-18 00:00:00"
+    ],
+    "train_shape": [
+      800,
+      30,
+      27
+    ],
+    "val_shape": [
+      148,
+      30,
+      27
+    ],
+    "test_shape": [
+      148,
+      30,
+      27
+    ],
+    "feature_columns": [
+      "open",
+      "high",
+      "low",
+      "close",
+      "volume",
+      "sma_10",
+      "sma_20",
+      "sma_50",
+      "ema_12",
+      "ema_26",
+      "macd",
+      "macd_signal",
+      "macd_hist",
+      "rsi_14",
+      "bb_upper",
+      "bb_lower",
+      "bb_width",
+      "atr_14",
+      "obv",
+      "adi",
+      "stoch_k",
+      "stoch_d",
+      "williams_r",
+      "bull_power",
+      "bear_power",
+      "daily_return",
+      "log_return"
+    ]
+  },
+  "TECHM.NS": {
+    "rows_after_cleaning": 1185,
+    "date_range": [
+      "2021-12-01 00:00:00",
+      "2026-09-18 00:00:00"
+    ],
+    "train_shape": [
+      799,
+      30,
+      27
+    ],
+    "val_shape": [
+      148,
+      30,
+      27
+    ],
+    "test_shape": [
+      148,
+      30,
+      27
+    ],
+    "feature_columns": [
+      "open",
+      "high",
+      "low",
+      "close",
+      "volume",
+      "sma_10",
+      "sma_20",
+      "sma_50",
+      "ema_12",
+      "ema_26",
+      "macd",
+      "macd_signal",
+      "macd_hist",
+      "rsi_14",
+      "bb_upper",
+      "bb_lower",
+      "bb_width",
+      "atr_14",
+      "obv",
+      "adi",
+      "stoch_k",
+      "stoch_d",
+      "williams_r",
+      "bull_power",
+      "bear_power",
+      "daily_return",
+      "log_return"
+    ]
+  },
+  "LTM.NS": {
+    "rows_after_cleaning": 1183,
+    "date_range": [
+      "2021-12-01 00:00:00",
+      "2026-09-18 00:00:00"
+    ],
+    "train_shape": [
+      798,
+      30,
+      27
+    ],
+    "val_shape": [
+      147,
+      30,
+      27
+    ],
+    "test_shape": [
+      148,
+      30,
+      27
+    ],
+    "feature_columns": [
+      "open",
+      "high",
+      "low",
+      "close",
+      "volume",
+      "sma_10",
+      "sma_20",
+      "sma_50",
+      "ema_12",
+      "ema_26",
+      "macd",
+      "macd_signal",
+      "macd_hist",
+      "rsi_14",
+      "bb_upper",
+      "bb_lower",
+      "bb_width",
+      "atr_14",
+      "obv",
+      "adi",
+      "stoch_k",
+      "stoch_d",
+      "williams_r",
+      "bull_power",
+      "bear_power",
+      "daily_return",
+      "log_return"
+    ]
+  },
+  "MPHASIS.NS": {
+    "rows_after_cleaning": 1185,
+    "date_range": [
+      "2021-12-01 00:00:00",
+      "2026-09-18 00:00:00"
+    ],
+    "train_shape": [
+      799,
+      30,
+      27
+    ],
+    "val_shape": [
+      148,
+      30,
+      27
+    ],
+    "test_shape": [
+      148,
+      30,
+      27
+    ],
+    "feature_columns": [
+      "open",
+      "high",
+      "low",
+      "close",
+      "volume",
+      "sma_10",
+      "sma_20",
+      "sma_50",
+      "ema_12",
+      "ema_26",
+      "macd",
+      "macd_signal",
+      "macd_hist",
+      "rsi_14",
+      "bb_upper",
+      "bb_lower",
+      "bb_width",
+      "atr_14",
+      "obv",
+      "adi",
+      "stoch_k",
+      "stoch_d",
+      "williams_r",
+      "bull_power",
+      "bear_power",
+      "daily_return",
+      "log_return"
+    ]
+  },
+  "PERSISTENT.NS": {
+    "rows_after_cleaning": 1185,
+    "date_range": [
+      "2021-12-01 00:00:00",
+      "2026-09-18 00:00:00"
+    ],
+    "train_shape": [
+      799,
+      30,
+      27
+    ],
+    "val_shape": [
+      148,
+      30,
+      27
+    ],
+    "test_shape": [
+      148,
+      30,
+      27
+    ],
+    "feature_columns": [
+      "open",
+      "high",
+      "low",
+      "close",
+      "volume",
+      "sma_10",
+      "sma_20",
+      "sma_50",
+      "ema_12",
+      "ema_26",
+      "macd",
+      "macd_signal",
+      "macd_hist",
+      "rsi_14",
+      "bb_upper",
+      "bb_lower",
+      "bb_width",
+      "atr_14",
+      "obv",
+      "adi",
+      "stoch_k",
+      "stoch_d",
+      "williams_r",
+      "bull_power",
+      "bear_power",
+      "daily_return",
+      "log_return"
+    ]
+  },
+  "COFORGE.NS": {
+    "rows_after_cleaning": 1185,
+    "date_range": [
+      "2021-12-01 00:00:00",
+      "2026-09-18 00:00:00"
+    ],
+    "train_shape": [
+      799,
+      30,
+      27
+    ],
+    "val_shape": [
+      148,
+      30,
+      27
+    ],
+    "test_shape": [
+      148,
+      30,
+      27
+    ],
+    "feature_columns": [
+      "open",
+      "high",
+      "low",
+      "close",
+      "volume",
+      "sma_10",
+      "sma_20",
+      "sma_50",
+      "ema_12",
+      "ema_26",
+      "macd",
+      "macd_signal",
+      "macd_hist",
+      "rsi_14",
+      "bb_upper",
+      "bb_lower",
+      "bb_width",
+      "atr_14",
+      "obv",
+      "adi",
+      "stoch_k",
+      "stoch_d",
+      "williams_r",
+      "bull_power",
+      "bear_power",
+      "daily_return",
+      "log_return"
+    ]
+  },
+  "LTTS.NS": {
+    "rows_after_cleaning": 1185,
+    "date_range": [
+      "2021-12-01 00:00:00",
+      "2026-09-18 00:00:00"
+    ],
+    "train_shape": [
+      799,
+      30,
+      27
+    ],
+    "val_shape": [
+      148,
+      30,
+      27
+    ],
+    "test_shape": [
+      148,
+      30,
+      27
+    ],
+    "feature_columns": [
+      "open",
+      "high",
+      "low",
+      "close",
+      "volume",
+      "sma_10",
+      "sma_20",
+      "sma_50",
+      "ema_12",
+      "ema_26",
+      "macd",
+      "macd_signal",
+      "macd_hist",
+      "rsi_14",
+      "bb_upper",
+      "bb_lower",
+      "bb_width",
+      "atr_14",
+      "obv",
+      "adi",
+      "stoch_k",
+      "stoch_d",
+      "williams_r",
+      "bull_power",
+      "bear_power",
+      "daily_return",
+      "log_return"
+    ]
+  }
+}
